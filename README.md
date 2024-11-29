@@ -1,7 +1,8 @@
 # carlosmayorga
 Desarrollar el Ejercicio de Clase
 
- 
+ ![image](https://github.com/user-attachments/assets/ae007692-d639-488e-ac5d-b270d1f4798d)
+
 
 Se requiere Docker para ejecutar los servicios dentro de los contenedores. Docker se puede instalar ejecutando los siguientes comandos (tomados de la guía de instalación de Docker Engine ):
 
