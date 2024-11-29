@@ -6,7 +6,8 @@ Desarrollar el Ejercicio de Clase
 
 Se requiere Docker para ejecutar los servicios dentro de los contenedores. Docker se puede instalar ejecutando los siguientes comandos (tomados de la guía de instalación de Docker Engine ):
 
- 
+ ![image](https://github.com/user-attachments/assets/43cd8cdb-8932-456c-8c83-fd171497eee7)
+
 
 Configurar el repositorio de Docker¶
  
