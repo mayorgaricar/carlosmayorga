@@ -11,18 +11,21 @@ Se requiere Docker para ejecutar los servicios dentro de los contenedores. Docke
 
 Configurar el repositorio de Docker¶
  
- 
+ ![image](https://github.com/user-attachments/assets/72a0a534-bc77-42a2-917b-e7ef46c1fad0)
+
  
  
 Instalar paquetes Docker de Ubuntu
  
- 
+ ![image](https://github.com/user-attachments/assets/a4915b57-76bf-4e84-92b8-47f3a6613a96)
+
  
  
 Configuración 
 Para permitir que el usuario actual ejecute Docker y, por lo tanto, inicie los contenedores, se lo debe agregar al grupo de usuarios de Docker . Para que el cambio de grupo sea efectivo, cierre la sesión y vuelva a iniciarla o use su .
 Agregue el usuario actual al grupo de Docker y aplique los cambios del grupo para el entorno de shell actual¶
- 
+ ![image](https://github.com/user-attachments/assets/5110925a-6685-4eb8-9629-5ab84fa7eec2)
+
  
 Para descargar el archivo docker compose de Greenbone Community Edition, se debe crear un directorio de destino.
 Crear directorio de descarga
